@@ -1,6 +1,6 @@
 # Fizeau
 
-<p align="center"><img src="https://i.imgur.com/7VUvZhe.png" height=300></p>
+<p align="center"><img src="https://github.com/averne/Fizeau/assets/45773016/1944246d-df65-461f-be2a-df3359476673" height=300></p>
 
 Adjust the color of the screen of your Nintendo Switch.
 
@@ -13,10 +13,10 @@ Adjust the color of the screen of your Nintendo Switch.
 
 # Images
 <p float="left">
-  <img src="https://github.com/averne/Fizeau/releases/download/v1.0.0/2024052420351700-CC47F0DEC75C1FD3B1F95FA9F9D57667.jpg" width="400" />
-  <img src="https://github.com/averne/Fizeau/releases/download/v1.0.0/2024052420325900-CC47F0DEC75C1FD3B1F95FA9F9D57667.jpg" width="400" />
-  <img src="https://github.com/averne/Fizeau/releases/download/v1.0.0/2024052420323800-CC47F0DEC75C1FD3B1F95FA9F9D57667.jpg" width="400" />
-  <img src="https://github.com/averne/Fizeau/releases/download/v1.0.0/HDqny7P.jpeg" width="400" />
+  <img src="https://github.com/averne/Fizeau/assets/45773016/028b1554-da6b-4efa-be76-af05ede066b0" width="400" />
+  <img src="https://github.com/averne/Fizeau/assets/45773016/561e17a3-cd71-4d9e-bbee-1d2a9408df37" width="400" />
+  <img src="https://github.com/averne/Fizeau/assets/45773016/b3ad91b6-3e6c-4d47-a2af-26ef58496aa7" width="400" />
+  <img src="https://github.com/averne/Fizeau/assets/45773016/a5c4e32d-c7cd-4ef4-8298-d33e4984b79a" width="400" />
 </p>
 
 # Installation
